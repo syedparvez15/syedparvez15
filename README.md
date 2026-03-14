@@ -18,7 +18,7 @@
 
 ## 👨‍💻 About Me
 
-I'm a **Senior Software Developer** with **9+ years of experience** designing, building, and shipping software that teams and businesses depend on. My work spans the full SDLC — from understanding requirements and architecting solutions to deploying to production and keeping systems healthy.
+I'm a **Senior Software Developer** with **10+ years of experience** designing, building, and shipping software that teams and businesses depend on. My work spans the full SDLC — from understanding requirements and architecting solutions to deploying to production and keeping systems healthy.
 
 I write code that is **clean, structured, and well-documented** — because software is read far more than it's written, and good documentation saves teams hours.
 
@@ -97,17 +97,6 @@ I write code that is **clean, structured, and well-documented** — because soft
 - Documented systems and user requirements to support long-term maintainability
 
 ---
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=syedparvez15&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="160" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=syedparvez15&layout=compact&theme=tokyonight&hide_border=true" height="160" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=syedparvez15&theme=tokyonight&hide_border=true" />
-</p>
 
 ---
 
