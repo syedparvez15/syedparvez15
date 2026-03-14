@@ -11,7 +11,7 @@
   <a href="/cdn-cgi/l/email-protection#ccbfb5a9a8bcadbebaa9b6fdf5fef88caba1ada5a0e2afa3a1">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <img src="https://komarev.com/ghpvc/?username=syedparvez15&style=for-the-badge&color=0A84FF" />
+
 </p>
 
 ---
@@ -39,7 +39,7 @@ I write code that is **clean, structured, and well-documented** — because soft
   <img src="https://img.shields.io/badge/Microsoft_Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white" />
   <img src="https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" />
   <img src="https://img.shields.io/badge/Azure_DevOps-0078D7?style=for-the-badge&logo=azure-devops&logoColor=white" />
-  <img src="https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white" />
+  <img src="https://img.shields.io/badge/AI_Integration-412991?style=for-the-badge&logo=openai&logoColor=white" />
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
 </p>
 
@@ -103,12 +103,14 @@ I write code that is **clean, structured, and well-documented** — because soft
 ## 🧠 What I'm Good At
 
 ```text
-✔  Taking ownership of releases — start to finish, on time, every time
-✔  Staying calm in production incidents and resolving them fast
-✔  Writing backend code that is clean, structured, and documented
-✔  Bridging the gap between technical teams and business stakeholders
-✔  Making cross-functional teams work better together
-✔  Picking up new technologies quickly and applying them well
+✔  Designing & delivering backend systems that are built to last
+✔  Owning release pipelines end to end — planning, execution, and post-deploy stability
+✔  Integrating AI APIs and embedding intelligent features into existing systems
+✔  Diagnosing and resolving production incidents fast, under pressure
+✔  Writing clean, structured, well-documented code — readable by the next developer
+✔  Translating business requirements into technical solutions that actually work
+✔  Keeping cross-functional teams aligned — developers, QA, architects, and stakeholders
+✔  Picking up new technologies quickly and applying them in production
 ```
 
 ---
