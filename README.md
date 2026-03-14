@@ -1,7 +1,7 @@
 <h1 align="center">Hey, I'm Syed Parvez 👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=0A84FF&center=true&vCenter=true&width=650&lines=Senior+Software+Developer;Backend+Systems+%7C+Cloud+%7C+CI%2FCD;9%2B+Years+Shipping+Reliable+Software" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=0A84FF&center=true&vCenter=true&width=650&lines=Senior+Software+Developer;Backend+Systems+%7C+Cloud+%7C+CI%2FCD;10%2B+Years+Shipping+Reliable+Software" alt="Typing SVG" />
 </p>
 
 <p align="center">
